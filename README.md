@@ -1,6 +1,6 @@
 # Hello,
 
-*My name is Mariana and I'm 24 years old. I love programming and I started since I was a little kid. I love to learn new languages and technologies. Here you can find a little bit of what I've done and what I'm trying to learn.*
+*My name is Mariana and I'm 24 years old. I love programming and I started when I was a little kid. I love to learn new languages and technologies. Here you can find a little bit of what I've done and what I'm trying to learn.*
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/detonagirl)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.twitch.tv/detonagirl)
