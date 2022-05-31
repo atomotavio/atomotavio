@@ -10,8 +10,8 @@
 
 ## What am I doing?
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=detonagirl&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atomotavio&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detonagirl&layout=compact&theme=tokyonight&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atomotavio&layout=compact&theme=tokyonight&hide_border=true&hide_title=true)
 
 
