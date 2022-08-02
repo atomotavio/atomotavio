@@ -7,6 +7,7 @@ I was born in São Paulo, I'm 24 years old, I'm a systems analysis and developme
 
 <img align="right" alt="Coding" width="600" src="https://data.whicdn.com/images/271624292/original.gif">
 
+---
 
 🔭 I’m currently working on [Área Indie](https://www.areaindie.tech/)
 
