@@ -3,7 +3,7 @@
 
 Currently, my main professional mission is to become a fullstack developer using the Javascript language. 
 
-I was born in São Paulo, I'm 24 years old, I'm a systems analysis and development student at Wyden and I'm in my last semester. I like to contribute to open-source projects, I'm currently contributing to 4Noobs which aims to bring free programming knowledge to those who want to join the area and you can check it out here -> https://github.com/he4rt/4noobs. I'm currently a web development intern. We use PHP as our main language and the company's own framework. In addition, we also work with MySQL database and HTML, CSS and Javascript on the Frontend. I am part of the level 2 support team in which we support any problems found in the software by customers as well as perform software maintenance, correcting any bugs and improving the product's performance. 
+I was born in São Paulo, I'm 25 years old, I'm a Systems Analyst. I like to contribute to open-source projects, I'm currently contributing to 4Noobs which aims to bring free programming knowledge to those who want to join the area and you can check it out here -> https://github.com/he4rt/4noobs and with the PT-Br translation of PHP. I worked as a web development intern. The main language used at the companyis PHP. In addition, we also work with MySQL database and HTML, CSS and Javascript on the Frontend. I was part of the level 2 support team in which we support any problems found in the software by customers as well as perform software maintenance, correcting any bugs and improving the product's performance. 
 
 <img align="right" alt="Coding" width="600" src="https://data.whicdn.com/images/271624292/original.gif">
 
