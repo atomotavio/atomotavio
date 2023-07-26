@@ -1,18 +1,40 @@
-<img align="center" alt="Coding" src="https://miro.medium.com/max/1000/1*iH6TbcAWnyxB12YYSFDUMQ.jpeg">
+<img align="center" alt="Coding" src="https://keebs.com/wp-content/uploads/2022/01/lofico_study.jpg">
 <h1 align="center">Hi 👋, I'm Otávio</h1>
 
-Currently, my main professional mission is to become a fullstack developer using the Javascript language. 
+I'm a web developer with extensive experience in languages ​​such as PHP, SQL, HTML, CSS and Javascript, working in both backend and frontend development. I have skills in software development, systems maintenance and customer support, which allows me to solve problems and improve product performance.
 
-I was born in São Paulo, I'm 25 years old, I'm a Systems Analyst. I like to contribute to open-source projects, I'm currently contributing to 4Noobs which aims to bring free programming knowledge to those who want to join the area and you can check it out here -> https://github.com/he4rt/4noobs and with the PT-Br translation of PHP. I worked as a web development intern. The main language used at the companyis PHP. In addition, we also work with MySQL database and HTML, CSS and Javascript on the Frontend. I was part of the level 2 support team in which we support any problems found in the software by customers as well as perform software maintenance, correcting any bugs and improving the product's performance. 
+I have a degree in Technology in Systems Analysis and Development and I am currently studying Information Technology Management at Fatec tu. I contribute to open source projects and I like to create initiatives that help new programmers to enter the area.
 
-<img align="right" alt="Coding" width="600" src="https://data.whicdn.com/images/271624292/original.gif">
+My skills include developing dynamic and interactive user interfaces using React.JS and Next.JS, and integrating artificial intelligence technologies such as ChatGPT to help produce content for websites. I have experience with agile methodologies, such as Scrum, and I am always looking for new knowledge and technologies to improve website development processes.
 
+Professional experience:
+
+- Web Development Intern at LW (Jul 2023 - Currently):
+
+- PHP Developer at USBNETWORK (Apr 2023 - Present): Systems development in PHP using Scriptcase and MySQL/MariaDB.
+
+- Web Development Intern at Mosyle (Feb 2022 - Dec 2022): Web development using PHP, MySQL, Javascript and other technologies.
+
+Languages:
+
+- Advanced English
+
+Technical abilities:
+
+- Programming Languages: PHP, SQL, C#, Javascript.
+- Frameworks: React.JS, Next.JS
+- Tools: Git/Github, Scriptcase.
+- Methodologies: Scrum.
+
+I am always looking for new challenges and opportunities to apply my knowledge and contribute to innovative projects. Please feel free to get in touch to discuss possible collaborations or professional opportunities.
 
 ---
+<img align="right" alt="Coding" width="600" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
+
 
 🔭 I’m currently working on [Área Indie](https://www.areaindie.tech/)
 
-🌱 I’m currently learning **ReactJS, NextJS, NodeJS**
+🌱 I’m currently learning **PHPUnit, Composer, Laravel**
 
 📝 I regularly write articles on [https://dev.to/atomotavio](https://dev.to/atomotavio)
 
@@ -22,7 +44,7 @@ I was born in São Paulo, I'm 25 years old, I'm a Systems Analyst. I like to con
 <p align="left">
 <a href="https://dev.to/atomotavio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atomotavio" height="30" width="40" /></a>
 <a href="https://twitter.com/atomotavio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atomotavio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atomotavio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atomotavio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/otaviotrindade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atomotavio" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/299192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="299192" height="30" width="40" /></a>
 <a href="https://instagram.com/atomotavio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atomotavio" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/atomotavio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atomotavio" height="30" width="40" /></a>
