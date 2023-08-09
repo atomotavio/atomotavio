@@ -3,13 +3,13 @@
 
 I'm a web developer with extensive experience in languages ​​such as PHP, SQL, HTML, CSS and Javascript, working in both backend and frontend development. I have skills in software development, systems maintenance and customer support, which allows me to solve problems and improve product performance.
 
-I have a degree in Technology in Systems Analysis and Development and I am currently studying Information Technology Management at Fatec tu. I contribute to open source projects and I like to create initiatives that help new programmers to enter the area.
+I have a degree in Technology in Systems Analysis and Development and I am currently studying Information Technology Management at Fatec Itu. I contribute to open source projects and I like to create initiatives that help new programmers to enter the area.
 
 My skills include developing dynamic and interactive user interfaces using React.JS and Next.JS, and integrating artificial intelligence technologies such as ChatGPT to help produce content for websites. I have experience with agile methodologies, such as Scrum, and I am always looking for new knowledge and technologies to improve website development processes.
 
 Professional experience:
 
-- Web Development Intern at LW (Jul 2023 - Currently):
+- Web Development Intern at LW (Jul 2023 - Present)
 
 - PHP Developer at USBNETWORK (Apr 2023 - Present): Systems development in PHP using Scriptcase and MySQL/MariaDB.
 
@@ -21,7 +21,7 @@ Languages:
 
 Technical abilities:
 
-- Programming Languages: PHP, SQL, C#, Javascript.
+- Programming Languages: PHP, SQL, Javascript.
 - Frameworks: React.JS, Next.JS
 - Tools: Git/Github, Scriptcase.
 - Methodologies: Scrum.
