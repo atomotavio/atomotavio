@@ -1,40 +1,34 @@
 <img align="center" alt="Coding" src="https://keebs.com/wp-content/uploads/2022/01/lofico_study.jpg">
 <h1 align="center">Hi 👋, I'm Otávio</h1>
 
-I'm a web developer with extensive experience in languages ​​such as PHP, SQL, HTML, CSS and Javascript, working in both backend and frontend development. I have skills in software development, systems maintenance and customer support, which allows me to solve problems and improve product performance.
+I am a web developer with extensive expertise in tools such as PHP, SQL, HTML, CSS, and Javascript, primarily focusing on backend development. My proficiency extends to software development, system maintenance, and customer support, enabling me to troubleshoot issues and optimize product performance.
 
-I have a degree in Technology in Systems Analysis and Development and I am currently studying Information Technology Management at Fatec Itu. I contribute to open source projects and I like to create initiatives that help new programmers to enter the area.
+I hold a degree in Technology in Systems Analysis and Development and am currently pursuing Information Technology Management at Fatec Itu. Actively contributing to open-source projects, I find joy in creating initiatives that facilitate the entry of new programmers into the field.
 
-My skills include developing dynamic and interactive user interfaces using React.JS and Next.JS, and integrating artificial intelligence technologies such as ChatGPT to help produce content for websites. I have experience with agile methodologies, such as Scrum, and I am always looking for new knowledge and technologies to improve website development processes.
+My skill set encompasses the development of dynamic and interactive user interfaces using React.JS and Next.JS. Additionally, I integrate artificial intelligence technologies like ChatGPT to aid in content production for websites. Well-versed in agile methodologies such as Scrum, I am perpetually exploring new knowledge and technologies to enhance website development processes.
 
-Professional experience:
-
-- Web Development Intern at LW (Jul 2023 - Present)
-
-- PHP Developer at USBNETWORK (Apr 2023 - Present): Systems development in PHP using Scriptcase and MySQL/MariaDB.
-
-- Web Development Intern at Mosyle (Feb 2022 - Dec 2022): Web development using PHP, MySQL, Javascript and other technologies.
+With almost two years of experience as a backend developer using PHP as my primary language, I've navigated through customer support, freelanced on projects from inception to Minimum Viable Product (MVP), and recently joined the product team at ZF. In this role, I contribute to the development of new features using technologies such as Symfony (Spryker), Redis, RabbitMQ, among others.
 
 Languages:
 
-- Advanced English
+- English - Advanced
 
-Technical abilities:
+Technical Skills:
 
 - Programming Languages: PHP, SQL, Javascript.
-- Frameworks: React.JS, Next.JS
-- Tools: Git/Github, Scriptcase.
+- Frameworks: React.JS, Next.JS, Symfony.
+- Tools: Git/Github/Gitlab, Azure Devops, Spryker, WSL, Docker.
 - Methodologies: Scrum.
 
-I am always looking for new challenges and opportunities to apply my knowledge and contribute to innovative projects. Please feel free to get in touch to discuss possible collaborations or professional opportunities.
+I am always on the lookout for fresh challenges and opportunities to apply my knowledge, contributing to innovative projects. Feel free to reach out for discussions on potential collaborations or professional opportunities.
 
 ---
 <img align="right" alt="Coding" width="600" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
 
 
-🔭 I’m currently working on [Área Indie](https://www.areaindie.tech/)
+🔭 I’m currently working @ ZF
 
-🌱 I’m currently learning **PHPUnit, Composer, Laravel**
+🌱 I’m currently learning **PHPUnit, Composer, Symfony, Spryker, Docker**
 
 📝 I regularly write articles on [https://dev.to/atomotavio](https://dev.to/atomotavio)
 
