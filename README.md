@@ -1,26 +1,30 @@
 <img align="center" alt="Coding" src="https://keebs.com/wp-content/uploads/2022/01/lofico_study.jpg">
-<h1 align="center">Hi 👋, I'm Otávio</h1>
+<h1>👋 Hello! I'm Otávio </h1>
 
-I am a web developer with extensive expertise in tools such as PHP, SQL, HTML, CSS, and Javascript, primarily focusing on backend development. My proficiency extends to software development, system maintenance, and customer support, enabling me to troubleshoot issues and optimize product performance.
+I'm a PHP developer focused on writing clean, scalable, and maintainable solutions for real-world business challenges.
 
-I hold a degree in Technology in Systems Analysis and Development and am currently pursuing Information Technology Management at Fatec Itu. Actively contributing to open-source projects, I find joy in creating initiatives that facilitate the entry of new programmers into the field.
+Currently, I work on a large-scale B2B e-commerce platform in the automotive sector, contributing end-to-end to complex features — from backend logic to frontend behavior. One of my proudest contributions has been the complete implementation of a free shipping feature, including merchant configuration, business rules, and dynamic display logic on the customer-facing side. I also work daily with asynchronous communication using RabbitMQ and contribute to maintaining a robust codebase following SOLID and Clean Code principles.
 
-My skill set encompasses the development of dynamic and interactive user interfaces using React.JS and Next.JS. Additionally, I integrate artificial intelligence technologies like ChatGPT to aid in content production for websites. Well-versed in agile methodologies such as Scrum, I am perpetually exploring new knowledge and technologies to enhance website development processes.
+Previously, I worked on a web interface redesign using **ReactJS**, where I rebuilt a homepage entirely based on a modern layout. I also have experience fixing production-level bugs in legacy systems built with pure PHP, serving educational platforms abroad.
 
-With almost two years of experience as a backend developer using PHP as my primary language, I've navigated through customer support, freelanced on projects from inception to Minimum Viable Product (MVP), and recently joined the product team at ZF. In this role, I contribute to the development of new features using technologies such as Symfony (Spryker), Redis, RabbitMQ, among others.
+---
 
-Languages:
+### 🛠️ Tech Stack
 
-- English - Advanced
+- **Languages:** PHP 8+, JavaScript (ES6+)
+- **Frameworks:** Spryker (Symfony), ReactJS, Twig
+- **Databases:** MySQL
+- **Messaging:** RabbitMQ
+- **Tools:** Docker, Git, GitLab CI/CD
+- **Best Practices:** SOLID principles, Clean Code, Design Patterns, PHPUnit
+- **Other:** Scrum methodology, daily communication in English
 
-Technical Skills:
+---
 
-- Programming Languages: PHP, SQL, Javascript.
-- Frameworks: React.JS, Next.JS, Symfony.
-- Tools: Git/Github/Gitlab, Azure Devops, Spryker, WSL, Docker.
-- Methodologies: Scrum.
+I'm always learning, refactoring, and pushing to deliver value through clean and reliable code.
 
-I am always on the lookout for fresh challenges and opportunities to apply my knowledge, contributing to innovative projects. Feel free to reach out for discussions on potential collaborations or professional opportunities.
+Let’s build something great. 🚀
+
 
 ---
 <img align="right" alt="Coding" width="600" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
@@ -28,7 +32,7 @@ I am always on the lookout for fresh challenges and opportunities to apply my kn
 
 🔭 I’m currently working @ ZF
 
-🌱 I’m currently learning **PHPUnit, Composer, Symfony, Spryker, Docker**
+🌱 I’m currently learning **Laravel, Symfony, Spryker, Docker, RabbitMQ**
 
 📝 I regularly write articles on [https://dev.to/atomotavio](https://dev.to/atomotavio)
 
